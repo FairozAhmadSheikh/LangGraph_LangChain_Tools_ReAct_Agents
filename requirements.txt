@@ -10,3 +10,4 @@ arxiv
 pymupdf
 wikipedia
 langchain
+langchain-groq
