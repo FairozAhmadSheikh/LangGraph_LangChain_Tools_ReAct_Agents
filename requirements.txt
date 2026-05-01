@@ -9,3 +9,4 @@ ddgs
 arxiv
 pymupdf
 wikipedia
+langchain
