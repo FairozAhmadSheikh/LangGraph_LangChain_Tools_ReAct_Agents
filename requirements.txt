@@ -6,3 +6,4 @@ ipykernal
 langchain-community
 duckduckgo-search
 ddgs
+arxiv
