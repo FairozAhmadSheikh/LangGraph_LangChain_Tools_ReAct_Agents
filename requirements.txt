@@ -7,3 +7,5 @@ langchain-community
 duckduckgo-search
 ddgs
 arxiv
+pymupdf
+wikipedia
