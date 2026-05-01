@@ -3,3 +3,6 @@ langchain-google-genai
 dotenv
 langgraph
 ipykernal
+langchain-community
+duckduckgo-search
+ddgs
